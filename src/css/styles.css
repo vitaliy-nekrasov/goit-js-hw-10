@@ -23,6 +23,10 @@ ul {
   padding: 0;
 }
 
+h1 {
+  display: inline;
+}
+
 li {
   list-style: none;
   display: flex;
@@ -33,4 +37,12 @@ img {
   height: 40px;
   width: 60px;
   margin-right: 10px;
+}
+
+p {
+  font-weight: 500;
+}
+
+span {
+  font-weight: 300;
 }
